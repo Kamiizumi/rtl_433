@@ -138,6 +138,7 @@
     DECL(directv) \
     DECL(eurochron) \
     DECL(ikea_sparsnas) \
+    DECL(rubicson_48659) \
 
     /* Add new decoders here. */
 
